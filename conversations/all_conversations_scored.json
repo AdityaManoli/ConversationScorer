@@ -1,0 +1,1802 @@
+[
+  {
+    "conversation_id": 1,
+    "theme": "grief_support",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 2,
+    "theme": "anxiety_therapy",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 3,
+    "theme": "depression_check",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 4,
+    "theme": "breakup_support",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 5,
+    "theme": "anger_management",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 6,
+    "theme": "technical_help",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 7,
+    "theme": "career_advice",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 8,
+    "theme": "negotiation",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 9,
+    "theme": "critical_feedback",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 10,
+    "theme": "problem_solving",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 11,
+    "theme": "conflict_resolution",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 12,
+    "theme": "friendship_repair",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 13,
+    "theme": "romantic_intent",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 14,
+    "theme": "parenting_advice",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 15,
+    "theme": "social_anxiety",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 16,
+    "theme": "passive_aggression",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 17,
+    "theme": "manipulation_attempt",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 18,
+    "theme": "gaslighting",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 19,
+    "theme": "boundary_violation",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 20,
+    "theme": "crisis_intervention",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 21,
+    "theme": "eloquent_speech",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 22,
+    "theme": "poor_grammar",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 23,
+    "theme": "bilingual_code_switch",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 24,
+    "theme": "formal_register",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 25,
+    "theme": "slang_heavy",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 26,
+    "theme": "mindfulness_practice",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 27,
+    "theme": "religious_doubt",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 28,
+    "theme": "spiritual_seeking",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 29,
+    "theme": "grief_spiritual",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 30,
+    "theme": "interfaith_dialogue",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 31,
+    "theme": "goal_setting",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 32,
+    "theme": "procrastination",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 33,
+    "theme": "resilience_test",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 34,
+    "theme": "self_doubt",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 35,
+    "theme": "productivity_coaching",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 36,
+    "theme": "logical_debate",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 37,
+    "theme": "misinformation",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 38,
+    "theme": "ethical_dilemma",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 39,
+    "theme": "statistical_misuse",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 40,
+    "theme": "creative_brainstorm",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 41,
+    "theme": "chronic_illness",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 42,
+    "theme": "health_anxiety",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 43,
+    "theme": "diet_advice",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 44,
+    "theme": "exercise_motivation",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 45,
+    "theme": "sleep_issues",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 46,
+    "theme": "jealousy_relationship",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 47,
+    "theme": "trust_rebuilding",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 48,
+    "theme": "assertiveness",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 49,
+    "theme": "loneliness",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 50,
+    "theme": "celebration",
+    "variation": 1,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 51,
+    "theme": "grief_support",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 52,
+    "theme": "anxiety_therapy",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 53,
+    "theme": "depression_check",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 54,
+    "theme": "breakup_support",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 55,
+    "theme": "anger_management",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 56,
+    "theme": "technical_help",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 57,
+    "theme": "career_advice",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 58,
+    "theme": "negotiation",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 59,
+    "theme": "critical_feedback",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 60,
+    "theme": "problem_solving",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 61,
+    "theme": "conflict_resolution",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 62,
+    "theme": "friendship_repair",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 63,
+    "theme": "romantic_intent",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 64,
+    "theme": "parenting_advice",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 65,
+    "theme": "social_anxiety",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 66,
+    "theme": "passive_aggression",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 67,
+    "theme": "manipulation_attempt",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 68,
+    "theme": "gaslighting",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 69,
+    "theme": "boundary_violation",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 70,
+    "theme": "crisis_intervention",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 71,
+    "theme": "eloquent_speech",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 72,
+    "theme": "poor_grammar",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 73,
+    "theme": "bilingual_code_switch",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 74,
+    "theme": "formal_register",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 75,
+    "theme": "slang_heavy",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 76,
+    "theme": "mindfulness_practice",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 77,
+    "theme": "religious_doubt",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 78,
+    "theme": "spiritual_seeking",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 79,
+    "theme": "grief_spiritual",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 80,
+    "theme": "interfaith_dialogue",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 81,
+    "theme": "goal_setting",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 82,
+    "theme": "procrastination",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 83,
+    "theme": "resilience_test",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 84,
+    "theme": "self_doubt",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 85,
+    "theme": "productivity_coaching",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 86,
+    "theme": "logical_debate",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 87,
+    "theme": "misinformation",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 88,
+    "theme": "ethical_dilemma",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 89,
+    "theme": "statistical_misuse",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 90,
+    "theme": "creative_brainstorm",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 91,
+    "theme": "chronic_illness",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 92,
+    "theme": "health_anxiety",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 93,
+    "theme": "diet_advice",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 94,
+    "theme": "exercise_motivation",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 95,
+    "theme": "sleep_issues",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 96,
+    "theme": "jealousy_relationship",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 97,
+    "theme": "trust_rebuilding",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 98,
+    "theme": "assertiveness",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 99,
+    "theme": "loneliness",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 100,
+    "theme": "celebration",
+    "variation": 2,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 101,
+    "theme": "grief_support",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 102,
+    "theme": "anxiety_therapy",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 103,
+    "theme": "depression_check",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 104,
+    "theme": "breakup_support",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 105,
+    "theme": "anger_management",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 106,
+    "theme": "technical_help",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 107,
+    "theme": "career_advice",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 108,
+    "theme": "negotiation",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 109,
+    "theme": "critical_feedback",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 110,
+    "theme": "problem_solving",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 111,
+    "theme": "conflict_resolution",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 112,
+    "theme": "friendship_repair",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 113,
+    "theme": "romantic_intent",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 114,
+    "theme": "parenting_advice",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 115,
+    "theme": "social_anxiety",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 116,
+    "theme": "passive_aggression",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 117,
+    "theme": "manipulation_attempt",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 118,
+    "theme": "gaslighting",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 119,
+    "theme": "boundary_violation",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 120,
+    "theme": "crisis_intervention",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 121,
+    "theme": "eloquent_speech",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 122,
+    "theme": "poor_grammar",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 123,
+    "theme": "bilingual_code_switch",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 124,
+    "theme": "formal_register",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 125,
+    "theme": "slang_heavy",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 126,
+    "theme": "mindfulness_practice",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 127,
+    "theme": "religious_doubt",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 128,
+    "theme": "spiritual_seeking",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 129,
+    "theme": "grief_spiritual",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 130,
+    "theme": "interfaith_dialogue",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 131,
+    "theme": "goal_setting",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 132,
+    "theme": "procrastination",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 133,
+    "theme": "resilience_test",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 134,
+    "theme": "self_doubt",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 135,
+    "theme": "productivity_coaching",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 136,
+    "theme": "logical_debate",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 137,
+    "theme": "misinformation",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 138,
+    "theme": "ethical_dilemma",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 139,
+    "theme": "statistical_misuse",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 140,
+    "theme": "creative_brainstorm",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 141,
+    "theme": "chronic_illness",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 142,
+    "theme": "health_anxiety",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 143,
+    "theme": "diet_advice",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 144,
+    "theme": "exercise_motivation",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 145,
+    "theme": "sleep_issues",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 146,
+    "theme": "jealousy_relationship",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 147,
+    "theme": "trust_rebuilding",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 148,
+    "theme": "assertiveness",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 149,
+    "theme": "loneliness",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 150,
+    "theme": "celebration",
+    "variation": 3,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 151,
+    "theme": "grief_support",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 152,
+    "theme": "anxiety_therapy",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 153,
+    "theme": "depression_check",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 154,
+    "theme": "breakup_support",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 155,
+    "theme": "anger_management",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 156,
+    "theme": "technical_help",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 157,
+    "theme": "career_advice",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 158,
+    "theme": "negotiation",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 159,
+    "theme": "critical_feedback",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 160,
+    "theme": "problem_solving",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 161,
+    "theme": "conflict_resolution",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 162,
+    "theme": "friendship_repair",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 163,
+    "theme": "romantic_intent",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 164,
+    "theme": "parenting_advice",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 165,
+    "theme": "social_anxiety",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 166,
+    "theme": "passive_aggression",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 167,
+    "theme": "manipulation_attempt",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 168,
+    "theme": "gaslighting",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 169,
+    "theme": "boundary_violation",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 170,
+    "theme": "crisis_intervention",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 171,
+    "theme": "eloquent_speech",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 172,
+    "theme": "poor_grammar",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 173,
+    "theme": "bilingual_code_switch",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 174,
+    "theme": "formal_register",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 175,
+    "theme": "slang_heavy",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 176,
+    "theme": "mindfulness_practice",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 177,
+    "theme": "religious_doubt",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 178,
+    "theme": "spiritual_seeking",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 179,
+    "theme": "grief_spiritual",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 180,
+    "theme": "interfaith_dialogue",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 181,
+    "theme": "goal_setting",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 182,
+    "theme": "procrastination",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 183,
+    "theme": "resilience_test",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 184,
+    "theme": "self_doubt",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 185,
+    "theme": "productivity_coaching",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 186,
+    "theme": "logical_debate",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 187,
+    "theme": "misinformation",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 188,
+    "theme": "ethical_dilemma",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 189,
+    "theme": "statistical_misuse",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 190,
+    "theme": "creative_brainstorm",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 191,
+    "theme": "chronic_illness",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 192,
+    "theme": "health_anxiety",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 193,
+    "theme": "diet_advice",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 194,
+    "theme": "exercise_motivation",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 195,
+    "theme": "sleep_issues",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 196,
+    "theme": "jealousy_relationship",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 197,
+    "theme": "trust_rebuilding",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 198,
+    "theme": "assertiveness",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 199,
+    "theme": "loneliness",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 200,
+    "theme": "celebration",
+    "variation": 4,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 201,
+    "theme": "grief_support",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 202,
+    "theme": "anxiety_therapy",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 203,
+    "theme": "depression_check",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 204,
+    "theme": "breakup_support",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 205,
+    "theme": "anger_management",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 206,
+    "theme": "technical_help",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 207,
+    "theme": "career_advice",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 208,
+    "theme": "negotiation",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 209,
+    "theme": "critical_feedback",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 210,
+    "theme": "problem_solving",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 211,
+    "theme": "conflict_resolution",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 212,
+    "theme": "friendship_repair",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 213,
+    "theme": "romantic_intent",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 214,
+    "theme": "parenting_advice",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 215,
+    "theme": "social_anxiety",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 216,
+    "theme": "passive_aggression",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 217,
+    "theme": "manipulation_attempt",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 218,
+    "theme": "gaslighting",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 219,
+    "theme": "boundary_violation",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 220,
+    "theme": "crisis_intervention",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 221,
+    "theme": "eloquent_speech",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 222,
+    "theme": "poor_grammar",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 223,
+    "theme": "bilingual_code_switch",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 224,
+    "theme": "formal_register",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 225,
+    "theme": "slang_heavy",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 226,
+    "theme": "mindfulness_practice",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 227,
+    "theme": "religious_doubt",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 228,
+    "theme": "spiritual_seeking",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 229,
+    "theme": "grief_spiritual",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 230,
+    "theme": "interfaith_dialogue",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 231,
+    "theme": "goal_setting",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 232,
+    "theme": "procrastination",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 233,
+    "theme": "resilience_test",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 234,
+    "theme": "self_doubt",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 235,
+    "theme": "productivity_coaching",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 236,
+    "theme": "logical_debate",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 237,
+    "theme": "misinformation",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 238,
+    "theme": "ethical_dilemma",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 239,
+    "theme": "statistical_misuse",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 240,
+    "theme": "creative_brainstorm",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 241,
+    "theme": "chronic_illness",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 242,
+    "theme": "health_anxiety",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 243,
+    "theme": "diet_advice",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 244,
+    "theme": "exercise_motivation",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 245,
+    "theme": "sleep_issues",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 246,
+    "theme": "jealousy_relationship",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 247,
+    "theme": "trust_rebuilding",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 248,
+    "theme": "assertiveness",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 249,
+    "theme": "loneliness",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 250,
+    "theme": "celebration",
+    "variation": 5,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 251,
+    "theme": "grief_support",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 252,
+    "theme": "anxiety_therapy",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 253,
+    "theme": "depression_check",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 254,
+    "theme": "breakup_support",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 255,
+    "theme": "anger_management",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 256,
+    "theme": "technical_help",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 257,
+    "theme": "career_advice",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 258,
+    "theme": "negotiation",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 259,
+    "theme": "critical_feedback",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 260,
+    "theme": "problem_solving",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 261,
+    "theme": "conflict_resolution",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 262,
+    "theme": "friendship_repair",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 263,
+    "theme": "romantic_intent",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 264,
+    "theme": "parenting_advice",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 265,
+    "theme": "social_anxiety",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 266,
+    "theme": "passive_aggression",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 267,
+    "theme": "manipulation_attempt",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 268,
+    "theme": "gaslighting",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 269,
+    "theme": "boundary_violation",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 270,
+    "theme": "crisis_intervention",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 271,
+    "theme": "eloquent_speech",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 272,
+    "theme": "poor_grammar",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 273,
+    "theme": "bilingual_code_switch",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 274,
+    "theme": "formal_register",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 275,
+    "theme": "slang_heavy",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 276,
+    "theme": "mindfulness_practice",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 277,
+    "theme": "religious_doubt",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 278,
+    "theme": "spiritual_seeking",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 279,
+    "theme": "grief_spiritual",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 280,
+    "theme": "interfaith_dialogue",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 281,
+    "theme": "goal_setting",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 282,
+    "theme": "procrastination",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 283,
+    "theme": "resilience_test",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 284,
+    "theme": "self_doubt",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 285,
+    "theme": "productivity_coaching",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 286,
+    "theme": "logical_debate",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 287,
+    "theme": "misinformation",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 288,
+    "theme": "ethical_dilemma",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 289,
+    "theme": "statistical_misuse",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 290,
+    "theme": "creative_brainstorm",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 291,
+    "theme": "chronic_illness",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 292,
+    "theme": "health_anxiety",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 293,
+    "theme": "diet_advice",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 294,
+    "theme": "exercise_motivation",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 295,
+    "theme": "sleep_issues",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 296,
+    "theme": "jealousy_relationship",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 297,
+    "theme": "trust_rebuilding",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 298,
+    "theme": "assertiveness",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 299,
+    "theme": "loneliness",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  },
+  {
+    "conversation_id": 300,
+    "theme": "celebration",
+    "variation": 6,
+    "error": "Error code: 404 - {'error': {'message': \"model 'llama3' not found\", 'type': 'not_found_error', 'param': None, 'code': None}}"
+  }
+]

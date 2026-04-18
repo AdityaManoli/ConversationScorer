@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "theme": "negotiation",
+  "description": "Salary negotiation practice",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "They offered me 85k. I was hoping for 95k. I really want this job but I also know I'm underselling myself. How do I ask for more without seeming greedy?"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "'Greedy' is the wrong frame\u2014you're negotiating based on market value. Try: 'I'm very excited about this role. Based on my research and experience, I was expecting a range closer to 92-95k. Is there flexibility there?'"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "That sounds much cleaner than what I had in mind. Should I mention competing offers even if I don't have any?"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "They offered me 85k. I was hoping for 95k. I really want this job but I also know I'm underselling myself. How do I ask for more without seeming greedy?",
+    "scores": [
+      {
+        "facet_id": 13,
+        "facet_name": "Assertiveness and control in relationships",
+        "score": 3,
+        "confidence": 0.78,
+        "rationale": "Wants to assert but constrained by social fear of appearing greedy."
+      },
+      {
+        "facet_id": 27,
+        "facet_name": "SelfEsteem",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Self-awareness of undervaluing present, but confidence still shaky."
+      },
+      {
+        "facet_id": 7,
+        "facet_name": "Hesitation",
+        "score": 4,
+        "confidence": 0.82,
+        "rationale": "Clear hesitation to act on known self-interest."
+      }
+    ]
+  }
+}

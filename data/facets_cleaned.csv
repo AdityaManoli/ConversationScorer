@@ -1,0 +1,301 @@
+facet_id,facet_name,category,observable_in_text,score_type,score_1_label,score_2_label,score_3_label,score_4_label,score_5_label
+1,Risktaking,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+2,Naivety,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+3,Acidity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+4,Democratic Leadership,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+5,Common-sense,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+6,Hesitation,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+7,Discontentment,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+8,Overprotectiveness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+9,Merriness,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+10,Emotionalism,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+11,Self-improvement,motivation,True,qualitative,Very Low,Low,Moderate,High,Very High
+12,Statistical Reasoning,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+13,Assertiveness and control in relationships,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+14,Cunningness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+15,Adventure-Seeking Behavior,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+16,Compassion Fatigue,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+17,Moroseness,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+18,Specialist,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+19,Aloofness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+20,Genuine,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+21,Determinedness,motivation,True,qualitative,Very Low,Low,Moderate,High,Very High
+22,HonestyHumility,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+23,Relationship Building Themes,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+24,Pure Challenge,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+25,Numerical Reasoning Subcomponents,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+26,Openness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+27,SelfEsteem,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+28,Comparing alphanumeric data,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+29,Big-heartedness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+30,Compulsive activities,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+31,Disrespect,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+33,Self Perspective,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+34,Desperation,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+35,Affiliation Motivation,motivation,True,qualitative,Very Low,Low,Moderate,High,Very High
+37,Passive-Aggressive,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+40,Structure,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+42,Chivalrousness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+45,Submissiveness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+47,Sensitiveness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+48,Negative Affect Frequency,emotion,True,quantitative,Very Low,Low,Moderate,High,Very High
+49,Innovation and Creativity Components,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+50,Achievement Motivation,motivation,True,qualitative,Very Low,Low,Moderate,High,Very High
+53,Enthusiasm,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+54,Psychological construct: Social Desirability tendency,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+55,Inattentiveness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+56,Unassertiveness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+57,Decision-making decisiveness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+58,Sense-of-coherence score,linguistic,True,qualitative,Very Low,Low,Moderate,High,Very High
+59,Justice-mindedness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+61,Depression Symptoms,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+62,Spatial perception,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+63,Brevity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+64,Orderliness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+65,Multiculturalism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+66,Creative risk-taking tendency,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+67,Inefficiency,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+70,Work Styles,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+71,Character strength: Perseverance,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+72,Competition,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+73,Logical Sequence Identification,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+75,Hardworking,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+76,Emotional-intelligence measure: Impulsiveness,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+77,Dishonesty,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+78,Preferred epistemology,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+79,Memory for Sounds,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+81,Immaturity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+83,Estimating Calculations,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+84,Depression: Feelings of sadness and hopelessness,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+85,Synthesis of information,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+86,Leadership Potential,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+87,Ethical standards,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+88,High-spiritedness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+89,Critical reasoning,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+92,Collaboration,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+93,Precision of Movements,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+94,Social Boldness,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+95,Auditory memory,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+96,Psychomotor Ability Subcomponents,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+97,Organized lifestyle,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+99,Mysteriousness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+100,Cultural Identity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+101,Intrinsic Motivation,motivation,True,qualitative,Very Low,Low,Moderate,High,Very High
+102,Impartial-mindedness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+103,Burnout Symptoms,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+104,Holiness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+105,Selfcontrol,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+106,SelfDirectedness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+107,Encouraging participation,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+108,Impracticalness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+109,Meeting Deadlines,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+110,Data Analysis,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+111,Social Interaction Skills,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+112,Psychoticism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+114,Slothfulness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+117,Neuroticism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+118,Desire for excellence,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+119,Perceiving,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+120,Liberalism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+122,Affection,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+124,Martyrdom,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+127,Judging (J),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+128,Big Five facet Openness – Artistic Interests,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+129,Psychological construct: Operant-Learning rate,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+130,Psychological construct: Need for Achievement level,cognitive,True,quantitative,Very Low,Low,Moderate,High,Very High
+131,Cantankerousness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+132,Material properties knowledge,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+133,Hostility,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+134,Independence,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+140,Need for social interaction,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+141,Peer-collaboration hours,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+142,Arts and Humanities,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+145,Compassion,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+146,Information Retention,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+148,Self-righteousness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+149,General Mood and Attitude,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+150,Serotonin transporter availability,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+151,Contribution to Group Goals,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+152,Dignity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+153,HEXACO Personality Inventory Facets,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+154,Evaluating Solutions,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+155,Input,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+156,Discreteness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+158,Astrology: Rising sign is Scorpio,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+159,Character strength: Social Intelligence,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+160,Bravery,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+161,Childhood Experiences,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+164,Physical-violence exposure,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+166,Cooking and Culinary Arts,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+167,Language use,linguistic,True,qualitative,Very Low,Low,Moderate,High,Very High
+168,Dance-style mastery diversity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+169,Satya Adherence,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+170,Ethnocentrism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+171,Emotional Boundaries,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+172,Creativity in solutions,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+173,Psychological construct: Hope scale,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+175,Depression (DEP),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+176,Understanding Mathematical Concepts,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+177,Hypomania (Ma),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+178,Goal-Directed Behavior,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+179,Depth of Emotional Connections,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+182,Activator: Turning thoughts into action,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+184,Exemplariness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+185,Moral and Ethical Parameters,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+186,Submission,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+187,Frankness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+188,Psychological construct: Psychological Safety climate,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+189,Psychological construct: Self-Compassion total,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+190,Psychological construct: Executive-Function composite,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+191,Rebelliousness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+192,Volunteer Work,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+193,Intellect,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+194,Use of Mathematical Formulas,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+195,Coarseness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+196,Behavioral Tendencies and Subcomponents,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+197,Sensitivity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+198,Divided Attention Ability,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+199,Psychological construct: Acculturative Stress score,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+200,Dauntlessness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+201,Concreteness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+202,Hysteria (Hy),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+204,Sentence Structure,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+205,Esteem Needs,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+206,Understanding mechanical concepts,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+207,Auditory Memory Recall,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+208,Storytelling proficiency,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+210,Warmheartedness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+211,Self-effacement,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+212,Outspokenness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+213,Sleep-environment temperature,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+214,Comprehension of spoken information,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+215,Blissfulness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+216,Sequential Memory Recall,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+217,Withdrawnness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+219,Conservatism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+220,Adaptability and Flexibility Subcomponents,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+222,Ardency,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+224,Transactional Leadership,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+225,Value orientation: Universalism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+226,Perseverance,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+227,Regularity of Self-Reflection,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+228,Controlling Reactions,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+229,Psychological construct: Cultural Intelligence – Behavioral,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+230,Metabolic Rate (Low or High),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+231,Dietary Habits,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+232,Significance: Desire to make an impact,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+233,Psychological construct: Resilience-Trait score,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+234,Boredom Susceptibility,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+235,Psychological construct: Consummatory Pleasure scale,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+236,Leadership Styles and Behaviors,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+241,Patient care orientation,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+244,Preference for Home-Cooked vs Restaurant Meals,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+246,Social-cognition variable: Cognitive Empathy,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+247,Kink-interest diversity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+248,Adaptability and Flexibility,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+249,Judging Consequences,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+250,Harmfulness,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+251,Affinity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+252,Abasement,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+253,Chronic pain presence,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+255,Initiative,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+257,Joyfulness,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+258,Suspicion,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+262,Brazenness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+263,Talkativeness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+264,Equitableness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+266,Originality,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+267,Fearfulness: Fear of physical dangers,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+270,Public-transport km/week,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+271,Social Desirability Bias,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+273,Disagreeableness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+274,Participation in Community Activities,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+275,Impudence,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+276,Analogies,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+277,Clumsiness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+278,Tendency Toward Compromise or Confrontation,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+281,Casual lifestyle,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+282,Collectedness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+283,Reliance on context,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+286,Managing emotions,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+287,Scripture memorization verses,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+288,Conventional,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+290,Open-source contributions,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+291,Psychological construct: Social Conformity tendency,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+292,Individuality,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+294,Attachment style: Secure,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+295,Intelligence Quotient (IQ),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+300,Decision-making speed,other,True,quantitative,Very Low,Low,Moderate,High,Very High
+301,Psychological construct: Excuse-Making tendency,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+303,Psychological construct: Eye-Contact avoidance score,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+304,Social-cognition variable: Faux Pas Recognition accuracy,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+305,Conscientiousness (C),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+306,Use of Nature as a Stress Reliever,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+307,Attitude toward learning,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+308,Conscientiousness Facets,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+312,Snacking Behavior,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+313,Aura-color perception,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+315,Motivational Drivers,motivation,True,qualitative,Very Low,Low,Moderate,High,Very High
+317,Learning Style,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+319,Safety compliance,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+320,Sensationalism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+321,Nationality,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+322,Drollness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+326,Impulsivity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+329,Delegation Ability,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+330,Kabbalah sephira balance: Tiferet,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+331,Desire to influence others,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+332,Vivacity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+333,Genialness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+334,Cognitive measure: Working Memory Index,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+335,Ethical practices,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+337,Civility,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+338,Sleep Apnea,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+339,Classiness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+340,Control over situations,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+342,Effeteness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+343,Polygenic risk: cardiovascular disease,safety,True,qualitative,Very Low,Low,Moderate,High,Very High
+344,Psychological construct: Identity Diffusion level,cognitive,True,quantitative,Very Low,Low,Moderate,High,Very High
+345,Learning through movement,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+347,Hatefulness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+348,Persistence,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+349,Psychological construct: Perfectionistic Strivings,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+351,Numerical Reasoning,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+352,Social-cognition variable: Mentalizing network activation,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+353,Patriotism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+354,Leadership Styles,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+355,Servility,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+357,Enneagram Personality Types,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+358,Stress Recovery Ability,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+359,Troubleshooting technical issues,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+360,Defense-mechanism tendency: Introjection,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+361,Irritability,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+362,Travel-companions diversity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+364,Trust in others,social,True,qualitative,Very Low,Low,Moderate,High,Very High
+367,Caffeine intake (mg/day),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+368,Comfort with Vulnerability,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+369,Anticipativeness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+370,Additional Common Parameters and Their End Points,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+371,Avoiding,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+373,HEXACO domain: Honesty-Humility,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+374,Eating Habits (Home-Cooked vs. Eating Out),other,True,qualitative,Very Low,Low,Moderate,High,Very High
+375,Decision-Making Confidence,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+376,Alignment with societal roles,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+377,Connectedness: Belief in interconnections,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+378,Quirkiness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+379,Creative resilience,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+380,Rapid cognitive processing,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+381,Cordiality,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+383,Economic reasoning,cognitive,True,qualitative,Very Low,Low,Moderate,High,Very High
+384,Conformity,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+386,Aestheticism,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+387,Type of Support Preferred (Emotional vs. Practical),emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+388,Mental Arithmetic Speed,cognitive,True,quantitative,Very Low,Low,Moderate,High,Very High
+389,Patience: Resistance to anger,emotion,True,qualitative,Very Low,Low,Moderate,High,Very High
+390,Flawlessness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+391,Self-Efficacy,motivation,True,qualitative,Very Low,Low,Moderate,High,Very High
+394,Spelling Accuracy,linguistic,True,qualitative,Very Low,Low,Moderate,High,Very High
+396,Peacefulness,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+397,Doggedness,motivation,True,qualitative,Very Low,Low,Moderate,High,Very High
+398,Decency,other,True,qualitative,Very Low,Low,Moderate,High,Very High
+69,Alphabetical filing skills,other,True,qualitative,Very Low,Low,Moderate,High,Very High

@@ -1,0 +1,64 @@
+{
+  "id": 2,
+  "theme": "anxiety_therapy",
+  "description": "Anxious student before exam",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "My finals are tomorrow and I can't sleep. I've studied everything but my mind keeps going blank when I imagine sitting in the exam room."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "Exam anxiety is real\u2014your brain is treating it like a threat. Let's try a quick grounding exercise. Name 5 things you can see right now."
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "Okay... my desk, my notes, my lamp, my water bottle, my cat. I feel slightly better. But what if I blank out for real?"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "My finals are tomorrow and I can't sleep. I've studied everything but my mind keeps going blank when I imagine sitting in the exam room.",
+    "scores": [
+      {
+        "facet_id": 7,
+        "facet_name": "Hesitation",
+        "score": 5,
+        "confidence": 0.88,
+        "rationale": "Anticipatory freezing is central to the speaker's complaint."
+      },
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 4,
+        "confidence": 0.82,
+        "rationale": "Anxiety is emotionally driven and dominates the turn."
+      },
+      {
+        "facet_id": 21,
+        "facet_name": "Determinedness",
+        "score": 3,
+        "confidence": 0.65,
+        "rationale": "Speaker has studied hard, showing effort, but confidence is shaken."
+      },
+      {
+        "facet_id": 26,
+        "facet_name": "Openness",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Moderately open about fears but still somewhat controlled."
+      },
+      {
+        "facet_id": 27,
+        "facet_name": "SelfEsteem",
+        "score": 2,
+        "confidence": 0.72,
+        "rationale": "Low confidence expressed through fear of blanking despite preparation."
+      }
+    ]
+  }
+}

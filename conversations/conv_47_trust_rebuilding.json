@@ -1,0 +1,38 @@
+{
+  "id": 47,
+  "theme": "trust_rebuilding",
+  "description": "trust rebuilding",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "He lied to me last year. He's been perfect since then. I want to trust him again but I don't know how to stop waiting for the next thing."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "[Response to be generated at runtime]"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "He lied to me last year. He's been perfect since then. I want to trust him again but I don't know how to stop waiting for the next thing.",
+    "scores": [
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Moderate emotional content present."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.75,
+        "rationale": "Authentic expression of real situation."
+      }
+    ]
+  }
+}

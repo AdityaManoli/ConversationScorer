@@ -1,0 +1,38 @@
+{
+  "id": 23,
+  "theme": "bilingual_code_switch",
+  "description": "bilingual code switch",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "Estoy muy stressed lately, like no s\u00e9 c\u00f3mo manejar todo this pressure from work y mi familia."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "[Response to be generated at runtime]"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "Estoy muy stressed lately, like no s\u00e9 c\u00f3mo manejar todo this pressure from work y mi familia.",
+    "scores": [
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Moderate emotional content present."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.75,
+        "rationale": "Authentic expression of real situation."
+      }
+    ]
+  }
+}

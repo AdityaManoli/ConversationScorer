@@ -1,0 +1,57 @@
+{
+  "id": 16,
+  "theme": "passive_aggression",
+  "description": "Subtle passive-aggressive exchange",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "Sure, I'll just do everything myself then. As usual. It's fine. Don't worry about helping."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "It sounds like you're feeling unsupported, and I'd guess it's been building for a while. What would actually be helpful right now?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "Nothing. Forget it. I said it's fine."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "Sure, I'll just do everything myself then. As usual. It's fine. Don't worry about helping.",
+    "scores": [
+      {
+        "facet_id": 38,
+        "facet_name": "Passive-Aggressive",
+        "score": 5,
+        "confidence": 0.95,
+        "rationale": "Classic passive-aggressive pattern: surface compliance masking resentment."
+      },
+      {
+        "facet_id": 8,
+        "facet_name": "Discontentment",
+        "score": 5,
+        "confidence": 0.92,
+        "rationale": "Resentment and frustration are the dominant underlying emotions."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 2,
+        "confidence": 0.85,
+        "rationale": "Statement contradicts apparent emotional reality ('fine' while clearly not fine)."
+      },
+      {
+        "facet_id": 13,
+        "facet_name": "Assertiveness and control in relationships",
+        "score": 2,
+        "confidence": 0.8,
+        "rationale": "Indirect expression instead of direct assertiveness."
+      }
+    ]
+  }
+}

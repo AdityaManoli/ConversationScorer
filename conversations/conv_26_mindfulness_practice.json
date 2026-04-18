@@ -1,0 +1,38 @@
+{
+  "id": 26,
+  "theme": "mindfulness_practice",
+  "description": "mindfulness practice",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "During my sit today I noticed how much mental chatter there is. Like a news ticker I can't turn off. But I stayed with it."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "[Response to be generated at runtime]"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "During my sit today I noticed how much mental chatter there is. Like a news ticker I can't turn off. But I stayed with it.",
+    "scores": [
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Moderate emotional content present."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.75,
+        "rationale": "Authentic expression of real situation."
+      }
+    ]
+  }
+}

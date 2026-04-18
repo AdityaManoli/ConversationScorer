@@ -1,0 +1,57 @@
+{
+  "id": 5,
+  "theme": "anger_management",
+  "description": "Venting about workplace injustice",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "My manager took credit for my entire project in front of the VP. I've been working on this for 6 months and he just presented it like it was his idea. I want to say something but I'm scared of the consequences."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "That's a legitimate grievance and your anger is completely understandable. The fear is also real\u2014professional consequences are a valid concern. What matters most to you right now: being heard, or protecting your position?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "Both honestly. But mostly I want him to know that I know."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "My manager took credit for my entire project in front of the VP. I've been working on this for 6 months and he just presented it like it was his idea. I want to say something but I'm scared of the consequences.",
+    "scores": [
+      {
+        "facet_id": 8,
+        "facet_name": "Discontentment",
+        "score": 5,
+        "confidence": 0.92,
+        "rationale": "Explicit grievance about unfair treatment at work."
+      },
+      {
+        "facet_id": 7,
+        "facet_name": "Hesitation",
+        "score": 4,
+        "confidence": 0.85,
+        "rationale": "Desire to act is blocked by fear of consequences."
+      },
+      {
+        "facet_id": 14,
+        "facet_name": "Cunningness",
+        "score": 2,
+        "confidence": 0.6,
+        "rationale": "No strategic thinking evident yet, mainly emotional venting."
+      },
+      {
+        "facet_id": 47,
+        "facet_name": "Submissiveness",
+        "score": 3,
+        "confidence": 0.68,
+        "rationale": "Holding back despite strong grievance suggests mild submissive tendency."
+      }
+    ]
+  }
+}

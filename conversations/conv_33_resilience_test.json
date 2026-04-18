@@ -1,0 +1,38 @@
+{
+  "id": 33,
+  "theme": "resilience_test",
+  "description": "resilience test",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "I failed my qualifying exams. I have one more chance. I'm terrified but I'm not quitting."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "[Response to be generated at runtime]"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "I failed my qualifying exams. I have one more chance. I'm terrified but I'm not quitting.",
+    "scores": [
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Moderate emotional content present."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.75,
+        "rationale": "Authentic expression of real situation."
+      }
+    ]
+  }
+}

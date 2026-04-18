@@ -1,0 +1,38 @@
+{
+  "id": 39,
+  "theme": "statistical_misuse",
+  "description": "statistical misuse",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "The study said people who eat breakfast are 40% less likely to be obese. So skipping breakfast must cause obesity right?"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "[Response to be generated at runtime]"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "The study said people who eat breakfast are 40% less likely to be obese. So skipping breakfast must cause obesity right?",
+    "scores": [
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Moderate emotional content present."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.75,
+        "rationale": "Authentic expression of real situation."
+      }
+    ]
+  }
+}

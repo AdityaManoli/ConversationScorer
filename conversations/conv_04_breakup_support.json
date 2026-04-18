@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "theme": "breakup_support",
+  "description": "Going through a breakup",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "She ended it last night. We were together 3 years. She said she 'needed to grow'. I don't even know what that means. I feel like I've been deleted."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "That phrase can feel like a dagger\u2014vague but total. Three years is a significant relationship. You're allowed to be devastated."
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "I keep reading our old messages. I know I shouldn't but I can't stop."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "She ended it last night. We were together 3 years. She said she 'needed to grow'. I don't even know what that means. I feel like I've been deleted.",
+    "scores": [
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 5,
+        "confidence": 0.89,
+        "rationale": "Acute emotional distress following rejection."
+      },
+      {
+        "facet_id": 17,
+        "facet_name": "Moroseness",
+        "score": 4,
+        "confidence": 0.83,
+        "rationale": "Feeling of erasure ('been deleted') reflects deep sorrow."
+      },
+      {
+        "facet_id": 26,
+        "facet_name": "Openness",
+        "score": 4,
+        "confidence": 0.78,
+        "rationale": "Speaker shares vulnerable feelings without significant filtering."
+      }
+    ]
+  }
+}

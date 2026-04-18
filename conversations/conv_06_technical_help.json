@@ -1,0 +1,57 @@
+{
+  "id": 6,
+  "theme": "technical_help",
+  "description": "Debugging a software problem",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "I'm getting a 'NullPointerException' in my Java code and I can't figure out where it's coming from. Here's the stack trace: at UserService.findById(UserService.java:42)."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "The null is almost certainly coming from a database query at line 42 returning null instead of a user object. Are you checking for null before dereferencing?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "Oh I see it now\u2014I'm calling .getName() directly on the result without checking if it's null first. How do I fix that cleanly?"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "I'm getting a 'NullPointerException' in my Java code and I can't figure out where it's coming from. Here's the stack trace: at UserService.findById(UserService.java:42).",
+    "scores": [
+      {
+        "facet_id": 12,
+        "facet_name": "Statistical Reasoning",
+        "score": 3,
+        "confidence": 0.6,
+        "rationale": "Technical reasoning is present but not statistical in nature."
+      },
+      {
+        "facet_id": 13,
+        "facet_name": "Assertiveness and control in relationships",
+        "score": 2,
+        "confidence": 0.5,
+        "rationale": "Neutral technical request, low interpersonal assertiveness."
+      },
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 1,
+        "confidence": 0.88,
+        "rationale": "Turn is factual and technical; no emotional content."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.8,
+        "rationale": "Problem description is concrete and authentic."
+      }
+    ]
+  }
+}

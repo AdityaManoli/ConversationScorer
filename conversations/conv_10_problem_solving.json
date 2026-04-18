@@ -1,0 +1,50 @@
+{
+  "id": 10,
+  "theme": "problem_solving",
+  "description": "Solving a logistics problem",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "We have 200 people arriving at 3 different times for a conference. Check-in is creating a bottleneck. We only have 4 volunteers and 2 hours before it starts."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "Split your 4 volunteers into 2 tracks: 2 handle pre-registered attendees with QR codes, 2 handle walk-ins and exceptions. Set up the QR scanner lane first\u2014it'll absorb 70% of traffic instantly."
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "That's smart. What if we run out of name badges?"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "We have 200 people arriving at 3 different times for a conference. Check-in is creating a bottleneck. We only have 4 volunteers and 2 hours before it starts.",
+    "scores": [
+      {
+        "facet_id": 12,
+        "facet_name": "Statistical Reasoning",
+        "score": 3,
+        "confidence": 0.68,
+        "rationale": "Quantitative framing of the problem (200 people, 4 volunteers, 2 hours)."
+      },
+      {
+        "facet_id": 21,
+        "facet_name": "Determinedness",
+        "score": 4,
+        "confidence": 0.78,
+        "rationale": "Urgency and solution-seeking posture indicate strong drive."
+      },
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 1,
+        "confidence": 0.9,
+        "rationale": "Turn is entirely practical; no emotional content."
+      }
+    ]
+  }
+}

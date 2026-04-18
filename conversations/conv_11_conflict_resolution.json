@@ -1,0 +1,38 @@
+{
+  "id": 11,
+  "theme": "conflict_resolution",
+  "description": "conflict resolution",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "You two need to figure this out between yourselves. I'm not going to keep playing referee. It's exhausting."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "[Response to be generated at runtime]"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "You two need to figure this out between yourselves. I'm not going to keep playing referee. It's exhausting.",
+    "scores": [
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Moderate emotional content present."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.75,
+        "rationale": "Authentic expression of real situation."
+      }
+    ]
+  }
+}

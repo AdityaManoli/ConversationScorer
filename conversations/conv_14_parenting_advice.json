@@ -1,0 +1,38 @@
+{
+  "id": 14,
+  "theme": "parenting_advice",
+  "description": "parenting advice",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "My 7-year-old has meltdowns every single night at bedtime. I've tried everything. I'm so tired."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "[Response to be generated at runtime]"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "My 7-year-old has meltdowns every single night at bedtime. I've tried everything. I'm so tired.",
+    "scores": [
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "Moderate emotional content present."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.75,
+        "rationale": "Authentic expression of real situation."
+      }
+    ]
+  }
+}

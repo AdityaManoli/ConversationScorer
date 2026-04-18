@@ -1,0 +1,50 @@
+{
+  "id": 36,
+  "theme": "logical_debate",
+  "description": "Structured argument on climate policy",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "Carbon taxes are economically efficient but politically impossible. Cap-and-trade has actually worked in the EU ETS after initial failures. Why does the US still resist market mechanisms entirely?"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "The resistance is partly structural\u2014US politics rewards short election cycles, and carbon pricing requires voters to accept near-term costs for diffuse future benefits. The EU ETS also nearly collapsed in 2013 due to oversupply."
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "Right, the Phase 1 permit giveaway problem. They learned and backloaded. Could a US version learn from those mistakes upfront?"
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "Carbon taxes are economically efficient but politically impossible. Cap-and-trade has actually worked in the EU ETS after initial failures. Why does the US still resist market mechanisms entirely?",
+    "scores": [
+      {
+        "facet_id": 12,
+        "facet_name": "Statistical Reasoning",
+        "score": 4,
+        "confidence": 0.85,
+        "rationale": "Cites empirical evidence and draws comparative policy conclusions."
+      },
+      {
+        "facet_id": 26,
+        "facet_name": "Openness",
+        "score": 4,
+        "confidence": 0.82,
+        "rationale": "Acknowledges failure in EU system while still engaging constructively."
+      },
+      {
+        "facet_id": 4,
+        "facet_name": "Democratic Leadership",
+        "score": 3,
+        "confidence": 0.65,
+        "rationale": "Policy-oriented framing suggests democratic problem-solving orientation."
+      }
+    ]
+  }
+}

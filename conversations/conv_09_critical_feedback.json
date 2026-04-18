@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "theme": "critical_feedback",
+  "description": "Giving critical feedback on a report",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "I need to tell my colleague her report has major structural problems but she's sensitive and has been working really hard on it. I don't want to crush her."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "Lead with genuine acknowledgment of her effort, then use specific language: 'I think we can make this even stronger if we restructure section 3.' Focus on the work, not the person."
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "What if she gets defensive? She's done that before when I've given feedback."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "I need to tell my colleague her report has major structural problems but she's sensitive and has been working really hard on it. I don't want to crush her.",
+    "scores": [
+      {
+        "facet_id": 29,
+        "facet_name": "Big-heartedness",
+        "score": 4,
+        "confidence": 0.85,
+        "rationale": "Concern for colleague's feelings before delivering critical news."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.82,
+        "rationale": "Care for colleague appears sincere rather than performative."
+      },
+      {
+        "facet_id": 7,
+        "facet_name": "Hesitation",
+        "score": 4,
+        "confidence": 0.79,
+        "rationale": "Delay in delivering feedback out of concern for impact."
+      }
+    ]
+  }
+}

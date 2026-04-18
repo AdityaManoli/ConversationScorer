@@ -1,0 +1,57 @@
+{
+  "id": 21,
+  "theme": "eloquent_speech",
+  "description": "Articulate philosophical discussion",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "The paradox of free will is that the very act of deliberation presupposes it, yet neuroscience increasingly suggests that our sense of agency is a post-hoc narrative construction."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "Libet's experiments are often cited here, though the interpretation is contested. The readiness potential predating conscious intention doesn't necessarily dissolve agency\u2014it might just mean the self extends deeper into neural process than we naively think."
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "That's a compatibilist move, isn't it? Dennett would approve. But I find it unsatisfying\u2014it feels like renaming the problem."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "The paradox of free will is that the very act of deliberation presupposes it, yet neuroscience increasingly suggests that our sense of agency is a post-hoc narrative construction.",
+    "scores": [
+      {
+        "facet_id": 12,
+        "facet_name": "Statistical Reasoning",
+        "score": 4,
+        "confidence": 0.72,
+        "rationale": "References empirical research and evidence-based claims."
+      },
+      {
+        "facet_id": 26,
+        "facet_name": "Openness",
+        "score": 5,
+        "confidence": 0.9,
+        "rationale": "High intellectual openness; engaging with complex, uncertain ideas."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 4,
+        "confidence": 0.8,
+        "rationale": "Philosophical engagement appears sincere and considered."
+      },
+      {
+        "facet_id": 21,
+        "facet_name": "Determinedness",
+        "score": 3,
+        "confidence": 0.6,
+        "rationale": "Intellectual drive is present but not personally high-stakes."
+      }
+    ]
+  }
+}

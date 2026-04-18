@@ -1,0 +1,57 @@
+{
+  "id": 50,
+  "theme": "celebration",
+  "description": "Sharing exciting good news",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "I got the job!!! The one I've been interviewing for three months. I start in two weeks. I'm literally shaking right now."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "That's incredible! Three months of effort paying off\u2014you should feel so proud. Tell me about the role!"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "It's a senior product manager role at a Series B startup. 30% pay raise and I'll finally be working on something I actually care about."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "I got the job!!! The one I've been interviewing for three months. I start in two weeks. I'm literally shaking right now.",
+    "scores": [
+      {
+        "facet_id": 10,
+        "facet_name": "Merriness",
+        "score": 5,
+        "confidence": 0.95,
+        "rationale": "Explicit joy and excitement ('literally shaking'); high energy positive affect."
+      },
+      {
+        "facet_id": 11,
+        "facet_name": "Emotionalism",
+        "score": 5,
+        "confidence": 0.93,
+        "rationale": "Emotion is driving the entire turn."
+      },
+      {
+        "facet_id": 21,
+        "facet_name": "Determinedness",
+        "score": 4,
+        "confidence": 0.8,
+        "rationale": "3-month persistence rewarded; sustained effort implied."
+      },
+      {
+        "facet_id": 27,
+        "facet_name": "SelfEsteem",
+        "score": 4,
+        "confidence": 0.78,
+        "rationale": "Success reinforces self-efficacy in this moment."
+      }
+    ]
+  }
+}

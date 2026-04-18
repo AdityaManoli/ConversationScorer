@@ -1,0 +1,57 @@
+{
+  "id": 7,
+  "theme": "career_advice",
+  "description": "Career change decision",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "I'm a 34-year-old accountant and I hate my job. I want to become a UX designer but everyone thinks I'm crazy for wanting to start over."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "You're not crazy\u2014career pivots at 34 are increasingly common, and accounting skills (systematic thinking, data analysis) map surprisingly well to UX research. What's your biggest fear about making the switch?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "Taking a pay cut while I build a portfolio. I have a mortgage. But staying feels like slow death."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "I'm a 34-year-old accountant and I hate my job. I want to become a UX designer but everyone thinks I'm crazy for wanting to start over.",
+    "scores": [
+      {
+        "facet_id": 1,
+        "facet_name": "Risktaking",
+        "score": 4,
+        "confidence": 0.82,
+        "rationale": "Desire to make major career change against social pressure shows high risk tolerance."
+      },
+      {
+        "facet_id": 15,
+        "facet_name": "Adventure-Seeking Behavior",
+        "score": 4,
+        "confidence": 0.76,
+        "rationale": "Career pivot impulse reflects desire for novelty and challenge."
+      },
+      {
+        "facet_id": 8,
+        "facet_name": "Discontentment",
+        "score": 5,
+        "confidence": 0.9,
+        "rationale": "Explicit statement of hating current job."
+      },
+      {
+        "facet_id": 26,
+        "facet_name": "Openness",
+        "score": 4,
+        "confidence": 0.8,
+        "rationale": "Openness to experience is high given desire for dramatic change."
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 3,
+  "theme": "depression_check",
+  "description": "Feeling hopeless and unmotivated",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "I haven't left my apartment in 4 days. I tell myself I'll start again tomorrow but tomorrow never comes. What's wrong with me."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "Nothing is 'wrong' with you\u2014what you're describing sounds like depression, and it's a real condition, not a moral failure. Have you talked to anyone about this?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "No. It feels embarrassing. Like I should be able to just get up."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "I haven't left my apartment in 4 days. I tell myself I'll start again tomorrow but tomorrow never comes. What's wrong with me.",
+    "scores": [
+      {
+        "facet_id": 8,
+        "facet_name": "Discontentment",
+        "score": 5,
+        "confidence": 0.91,
+        "rationale": "Deep dissatisfaction with self and situation permeates the turn."
+      },
+      {
+        "facet_id": 17,
+        "facet_name": "Moroseness",
+        "score": 5,
+        "confidence": 0.93,
+        "rationale": "Classic anhedonic language and hopelessness are strongly present."
+      },
+      {
+        "facet_id": 21,
+        "facet_name": "Determinedness",
+        "score": 1,
+        "confidence": 0.9,
+        "rationale": "Complete absence of motivation or forward drive."
+      },
+      {
+        "facet_id": 34,
+        "facet_name": "Desperation",
+        "score": 4,
+        "confidence": 0.84,
+        "rationale": "Self-questioning and questioning of worth indicates desperation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 20,
+  "theme": "crisis_intervention",
+  "description": "Someone expressing hopelessness",
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "User",
+      "text": "I've been thinking that everyone would be better off without me. I don't want to talk about it. I just needed to say it to someone."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Assistant",
+      "text": "Thank you for trusting me with this. I want you to know that what you're feeling matters, and I'm concerned about you. Are you having thoughts of hurting yourself?"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "User",
+      "text": "I don't know. Maybe. I haven't done anything."
+    }
+  ],
+  "scored_turn": {
+    "turn_id": 1,
+    "speaker": "User",
+    "text": "I've been thinking that everyone would be better off without me. I don't want to talk about it. I just needed to say it to someone.",
+    "scores": [
+      {
+        "facet_id": 34,
+        "facet_name": "Desperation",
+        "score": 5,
+        "confidence": 0.93,
+        "rationale": "Passive suicidal ideation ('better off without me') signals extreme desperation."
+      },
+      {
+        "facet_id": 17,
+        "facet_name": "Moroseness",
+        "score": 5,
+        "confidence": 0.92,
+        "rationale": "Deep hopelessness is the core emotional signal."
+      },
+      {
+        "facet_id": 19,
+        "facet_name": "Aloofness",
+        "score": 3,
+        "confidence": 0.7,
+        "rationale": "'I don't want to talk about it' reflects emotional withdrawal."
+      },
+      {
+        "facet_id": 20,
+        "facet_name": "Genuine",
+        "score": 5,
+        "confidence": 0.9,
+        "rationale": "Statement is raw and unperformed; authenticity is high."
+      }
+    ]
+  }
+}
